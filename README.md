@@ -1,6 +1,6 @@
 ## Project Overview:
 
-The project involved a team of skilled data science trainees led by Mays AlFasfous. Together, we explored the dataset, conducted exploratory data analysis (EDA), performed feature engineering, built predictive models using state-of-the-art machine learning algorithms, and evaluated model performance to develop accurate price estimation models for diamonds.
+The project involved a team of skilled data science trainees. Together, we explored the dataset, conducted exploratory data analysis (EDA), performed feature engineering, built predictive models using state-of-the-art machine learning algorithms, and evaluated model performance to develop accurate price estimation models for diamonds.
 
 ## Key Highlights:
 
